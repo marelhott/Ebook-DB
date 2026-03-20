@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Go
+bin/
+coverage.out
+.tools/
+backend/.bin/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Runtime data
+data/
+storage/
+tmp/
+tmp-upload.json
+
+# IDE
+.idea/
+.vscode/

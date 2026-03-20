@@ -1,0 +1,112 @@
+# Figma Make Prompt
+
+Design a premium web app concept for a product that is the most beautiful way to organize and read the books people actually own.
+
+This product is not just a book database, not just a Goodreads alternative, and not just an ebook manager. It is a visual home for real books that users already have, starting with EPUB as the primary reading format, while also giving them rich book and author context.
+
+Product essence:
+
+- Users import their own books from disk or cloud storage, with EPUB as the first-class format
+- The app automatically extracts metadata, finds covers, enriches book records, and organizes the collection beautifully
+- Users can read their EPUB books directly in the app
+- The app also provides rich public-style detail pages for books and authors
+- It should feel like a blend of Booklore, BookFusion, IMDb, Letterboxd, Plex, and Apple Books
+
+Important product priorities:
+
+- Personal library first
+- Reading experience second
+- Rich metadata and visual presentation third
+- AI is supportive, secondary, and understated
+- Avoid making it look like a file manager, admin dashboard, or enterprise SaaS tool
+
+Visual direction:
+
+- Elegant, premium, editorial, warm, cinematic
+- Strong emphasis on book covers
+- Refined typography
+- Spacious layouts
+- Rich browsing rails
+- Soft shadows and depth
+- Warm paper tones, deep ink colors, dark green, navy, or oxblood accents
+- The interface should feel literary, curated, and immersive
+
+Design inspiration:
+
+- Booklore for library organization
+- BookFusion for polished reading feel
+- IMDb and Letterboxd for rich media detail pages
+- Plex for the emotional clarity of owned media
+- Apple Books for refinement and calmness
+
+Please design these screens:
+
+1. Library Home
+- Continue reading
+- Recently added
+- Reading now
+- Want to read
+- Beautiful cover-based layout
+- A strong emotional feeling of "these are my books"
+
+2. My Library
+- Personal collection of owned books
+- Grid view and list view
+- Filters by author, format, language, and reading status
+- Bulk import state
+- Some books may need metadata review
+- Elegant, premium browsing experience
+
+3. Book Detail Page
+- Large hero cover
+- Summary
+- Metadata
+- Formats I own
+- Read now call to action
+- Series placement
+- Related books
+- Author preview
+- A clean AI summary or about-this-book panel
+- Visual distinction between public metadata and my personal ownership
+
+4. Author Detail Page
+- Lightweight but premium literary profile
+- Portrait
+- Concise biography
+- Bibliography with covers
+- Books I own by this author clearly marked
+- Where-to-start section
+- Similar authors
+
+5. Reader View
+- Minimal but premium EPUB reading interface
+- Typography controls
+- Theme controls
+- Progress indicator
+- Bookmark and highlight tools
+- Calm, immersive reading experience
+- Elegant top and bottom bars with restrained UI
+
+6. Import and Metadata Review Screen
+- Bulk upload progress
+- Matching imported files to book records
+- Manual metadata correction
+- Clean UX, not technical-looking
+- The user should feel the app is intelligently organizing the collection
+
+7. Search Overlay and Search Results
+- Search across owned books, authors, series, and genres
+- Owned books prioritized visually
+- Beautiful result cards, no ugly tables
+
+UX principles:
+
+- The product should feel like a world-class digital library for books users already own
+- Personal ownership should be central to the experience
+- Imported files should feel elevated into beautiful objects, not treated like raw uploads
+- Design for delight, clarity, and emotional attachment to the collection
+- Avoid generic AI startup visuals
+- Avoid enterprise UI patterns
+- Avoid purple-white gradient aesthetics
+
+Create a cohesive high-end concept with strong layout variety, rich cover presentation, sophisticated typography, and a polished emotional reading experience.

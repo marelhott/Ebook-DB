@@ -1,0 +1,14 @@
+:root {
+  --color-bg: #f6f1e8;
+  --color-surface: #fbf8f2;
+  --color-raised: #f8f4ed;
+  --color-text: #171410;
+  --color-muted: #6c655c;
+  --color-accent: #314b43;
+  --color-border: rgba(59, 45, 28, 0.1);
+  --color-border-strong: rgba(59, 45, 28, 0.18);
+  --shadow-soft: 0 18px 50px -30px rgba(41, 27, 15, 0.24);
+  --font-display: "Cormorant Garamond", "Iowan Old Style", "Palatino Linotype", serif;
+  --font-ui: "Geist", "Satoshi", "Avenir Next", "Segoe UI", sans-serif;
+  --font-reader: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+}
